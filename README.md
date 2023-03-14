@@ -1,2 +1,2 @@
 # sass
-First project made with Sass
+First project made with SCSS and SASS
